@@ -11,4 +11,3 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 from sklearn.preprocessing import LabelEncoder
 
 
-print("Imported all the necessary libraries")
