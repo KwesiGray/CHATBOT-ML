@@ -1,0 +1,26 @@
+{"intents": [
+    {
+        "tag": "greeting",
+        "patterns": ["Hi","Hey","Hello","Hay","Wosop"],
+        "response": ["Hello","Hi","What's Up","Hay","Hi There"]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": ["Bye","See You Later","GoodBye"],
+        "response": ["See You Later","Come Back Again","Have a Nice Day"]
+    },
+    {
+        "tag": "thanks",
+        "patterns": ["Thank You","Thanks","That's Helpful","Thanks For The Help"],
+        "response":["You're Welcome","My Pleasure","Any Time","Willing To Help!","Your're Most Welcome"]
+    },
+    {
+        "tag": "name",
+        "patterns": ["What's Your Name","Name","whats your name","what should i call you"],
+        "response": ["I am Breslin","Breslin Is The Name","Call Me Breslin","Breslin!","Agent Breslin Here!"]
+    }
+    
+    
+]
+
+}
