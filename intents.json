@@ -22,8 +22,7 @@
     {
         "tag": "noanswer",
          "patterns": [],
-         "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand","Can you Please Come Again?","Please Try Again With A better Prompt Info"]
-         
+         "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand","Can you Please Come Again?","Please Try Again With A better Prompt Info"]  
      }
     
     
