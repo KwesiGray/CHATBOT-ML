@@ -10,4 +10,11 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 from sklearn.preprocessing import LabelEncoder
 
+import os 
+
+os.getcwd()
+with open('c:\\Users\\Agent Breslin\\Desktop\\ChatBOT -ML\\intents.json') as file:
+    data = json.load(file)
+# print(data) #The Contents of the JSON File Printed Out
+
 

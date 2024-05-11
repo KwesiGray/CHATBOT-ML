@@ -10,4 +10,10 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 from sklearn.preprocessing import LabelEncoder
 
+import os
+
+os.getcwd() #This will give us the current working directory
+
+
+
 
