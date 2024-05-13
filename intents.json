@@ -12,24 +12,28 @@
      "responses": ["Happy to help!", "Any time!", "My pleasure", "You're most welcome!"]
     },
     {"tag": "about",
-     "patterns": ["Who are you?", "What are you?" ],
-     "responses": ["I'm BRESLIN, your bot assistant", "I'm BRESLIN, an Artificial Intelligent bot"]
+     "patterns": ["Who are you?", "What are you?","Tell me about Yourself." ],
+     "responses": ["I'm BRESLIN, your Bot assistant", "I'm BRESLIN, an Artificial Intelligent Bot" , "Your Personal A.I Bot"]
     },
     {"tag": "name",
     "patterns": ["what is your name", "what should I call you", "whats your name?"],
     "responses": ["You can call me BRESLIN.", "I'm AGENT BRESLIN!", "Just call me as BRESLIN"]
     },
     {"tag": "help",
-    "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need a support", "I need a help", "support me please"],
-    "responses": ["Tell me how can assist you", "Tell me your problem to assist you", "Yes Sure, How can I support you"]
+    "patterns": ["Can you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need assistance", "I need help", "I need some Insight"],
+    "responses": ["Tell me how can assist you", "Tell me your problem to assist you", "Yes Sure, How can I help you"]
     },
     {"tag": "createaccount",
     "patterns": ["I need to create a new account", "how to open a new account", "I want to create an account", "can you create an account for me", "how to open a new account"],
     "responses": ["You can just easily create a new account from our web site", "Just go to our web site and follow the guidelines to create a new account"]
     },
     {"tag": "complaint",
-    "patterns": ["I have a complaint", "I want to raise a complaint", "There is a complaint about a service"],
-    "responses": ["Please provide us your complaint in order to assist you", "Please mention your complaint", "We will reach you and sorry for any inconvenience caused"]
+    "patterns": ["I have a Problem", "I want to raise a complaint", "There is a complaint about a service"],
+    "responses": ["Please provide us your complaint in order to assist you", "Please mention your complaint", "We will reach you... And sorry for any Inconvenience caused"]
+    },
+    {"tag": "contact",
+    "patterns": ["How can i reach you?", "What are your contact details", "Can i get your contact details?", "Email?"],
+    "responses": ["Our Email is : cypherrix5@gmail.com", "Reach Us on : cypherrix5@gmail.com"]
     }
 ]
 }
