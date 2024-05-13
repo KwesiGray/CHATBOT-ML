@@ -4,4 +4,6 @@ ImportDataSet.ipynb
 Chat
 tempCodeRunnerFile.ipynb
 intents.json
-
+chat.h5
+lable_encoder.pickle
+tokenizer.pickle
